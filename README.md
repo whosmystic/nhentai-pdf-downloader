@@ -18,3 +18,4 @@ On mac/linux:
 On Windows:
 `py -m pip install fpdf hentai`
 
+Enjoy, I guess. Oh, and please report any issues you have.
